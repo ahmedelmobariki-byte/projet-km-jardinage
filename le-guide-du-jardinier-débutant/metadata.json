@@ -1,0 +1,6 @@
+
+{
+  "name": "Le Guide du Jardinier Débutant",
+  "description": "Une base de connaissances intelligente qui utilise l'API Gemini pour répondre aux questions des jardiniers débutants et les aider à réussir leur premier potager.",
+  "requestFramePermissions": []
+}
